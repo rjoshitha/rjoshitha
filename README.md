@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjoshitha
 - 👀 I’m interested in data centric projects
-- 🌱 I’m currently learning Data mining, SQL
+- 🌱 Master's in Data Science student @SUNY Buffalo
 - 💞️ I’m looking to collaborate on data centric projects
 - 📫 You can reach me on joshithar.2102@gmail.com
 - 😄 Pronouns: she/her
